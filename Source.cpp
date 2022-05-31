@@ -1,5 +1,5 @@
 /*
-	Name: Dallas Roberts
+	Name: Ellie Day
 	Date: 06/19/2020
 	Project: Midterm Project - Hangman Console Game
 */
